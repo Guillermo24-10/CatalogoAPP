@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8LPZsaNFL8=",
+  "success": true,
+  "projectFilePath": "F:\\Proyect_Visual\\VS2026_PROYECTOS\\Catalogo\\src\\Catalogo.Api\\Catalogo.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acuar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\acuar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
