@@ -1,0 +1,12 @@
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\bin\Debug\net9.0\Catalogo.Infrastructure.deps.json
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\bin\Debug\net9.0\Catalogo.Infrastructure.dll
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\bin\Debug\net9.0\Catalogo.Infrastructure.pdb
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\obj\Debug\net9.0\Catalogo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\obj\Debug\net9.0\Catalogo.Infrastructure.AssemblyInfoInputs.cache
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\obj\Debug\net9.0\Catalogo.Infrastructure.AssemblyInfo.cs
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\obj\Debug\net9.0\Catalogo.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\obj\Debug\net9.0\Catalogo.Infrastructure.sourcelink.json
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\obj\Debug\net9.0\Catalogo.Infrastructure.dll
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\obj\Debug\net9.0\refint\Catalogo.Infrastructure.dll
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\obj\Debug\net9.0\Catalogo.Infrastructure.pdb
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Infrastructure\obj\Debug\net9.0\ref\Catalogo.Infrastructure.dll

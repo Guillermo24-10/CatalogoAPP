@@ -1,0 +1,13 @@
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\bin\Debug\net9.0\Catalogo.Domain.deps.json
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\bin\Debug\net9.0\Catalogo.Domain.dll
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\bin\Debug\net9.0\Catalogo.Domain.pdb
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\Catalogo.Domain.csproj.AssemblyReference.cache
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\Catalogo.Domain.AssemblyInfoInputs.cache
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\Catalogo.Domain.AssemblyInfo.cs
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\Catalogo.Domain.csproj.CoreCompileInputs.cache
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\Catalogo.Domain.sourcelink.json
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\Catalogo.Domain.dll
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\refint\Catalogo.Domain.dll
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\Catalogo.Domain.pdb
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Domain\obj\Debug\net9.0\ref\Catalogo.Domain.dll
