@@ -9,16 +9,18 @@ namespace Catalogo.Domain.Products
         public decimal Price { get; set; }
         public string? Description { get; set; }
         public string? ImageUrl { get; set; }
-        private Product(Guid id, string name, decimal price, string description, string imageUrl) : base(id)
+        public string? Code { get; set; }
+        private Product(Guid id, string name, decimal price, string description, string imageUrl, string? code) : base(id)
         {
             Name = name;
             Price = price;
             Description = description;
             ImageUrl = imageUrl;
+            Code = code;
         }
-        public static Product Create(string name, decimal price, string description, string imageUrl)
+        public static Product Create(string name, decimal price, string description, string imageUrl, string code)
         {
-            var product = new Product(Guid.NewGuid(), name, price, description, imageUrl);
+            var product = new Product(Guid.NewGuid(), name, price, description, imageUrl, code);
             var productDomainEvent = new ProductCreatedDomainEvent(product.Id);
             product.RaiseDomainEvent(productDomainEvent);
             return product;

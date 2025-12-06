@@ -33,3 +33,4 @@ F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Api\obj\Debug\net9.0\re
 F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Api\obj\Debug\net9.0\Catalogo.Api.pdb
 F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Api\obj\Debug\net9.0\Catalogo.Api.genruntimeconfig.cache
 F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Api\obj\Debug\net9.0\ref\Catalogo.Api.dll
+F:\Proyect_Visual\VS2026_PROYECTOS\Catalogo\src\Catalogo.Api\bin\Debug\net9.0\Scalar.AspNetCore.dll
